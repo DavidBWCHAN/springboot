@@ -1,0 +1,16 @@
+2016-11-20 18:04:02,088 INFO (StartupInfoLogger.java:48)- Starting WdDataApplication on AET91JDNEAELRLS with PID 5872 (D:\2016-work\newworkspace\springboot\target\classes started by Administrator in D:\2016-work\newworkspace\springboot)
+2016-11-20 18:04:02,098 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.3.0.RELEASE, Spring v4.2.3.RELEASE
+2016-11-20 18:04:02,099 INFO (SpringApplication.java:653)- No profiles are active
+2016-11-20 18:04:06,250 INFO (StartupInfoLogger.java:57)- Started WdDataApplication in 4.694 seconds (JVM running for 5.412)
+2016-11-20 18:05:02,800 INFO (StartupInfoLogger.java:48)- Starting WdDataApplication on AET91JDNEAELRLS with PID 3796 (D:\2016-work\newworkspace\springboot\target\classes started by Administrator in D:\2016-work\newworkspace\springboot)
+2016-11-20 18:05:02,806 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.3.0.RELEASE, Spring v4.2.3.RELEASE
+2016-11-20 18:05:02,807 INFO (SpringApplication.java:653)- No profiles are active
+2016-11-20 18:05:07,112 INFO (StartupInfoLogger.java:57)- Started WdDataApplication in 4.894 seconds (JVM running for 5.699)
+2016-11-20 18:05:23,838 INFO (StartupInfoLogger.java:48)- Starting WdDataApplication on AET91JDNEAELRLS with PID 8700 (D:\2016-work\newworkspace\springboot\target\classes started by Administrator in D:\2016-work\newworkspace\springboot)
+2016-11-20 18:05:23,844 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.3.0.RELEASE, Spring v4.2.3.RELEASE
+2016-11-20 18:05:23,845 INFO (SpringApplication.java:653)- No profiles are active
+2016-11-20 18:05:28,091 INFO (StartupInfoLogger.java:57)- Started WdDataApplication in 4.883 seconds (JVM running for 5.606)
+2016-11-20 18:10:14,696 INFO (StartupInfoLogger.java:48)- Starting WdDataApplication on AET91JDNEAELRLS with PID 9088 (D:\2016-work\newworkspace\springboot\target\classes started by Administrator in D:\2016-work\newworkspace\springboot)
+2016-11-20 18:10:14,702 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.3.0.RELEASE, Spring v4.2.3.RELEASE
+2016-11-20 18:10:14,704 INFO (SpringApplication.java:653)- No profiles are active
+2016-11-20 18:10:19,269 INFO (StartupInfoLogger.java:57)- Started WdDataApplication in 5.083 seconds (JVM running for 5.799)
